@@ -1,4 +1,5 @@
-#Ride Development Standards
+#Ride Development Standards - This Repo is no longer applicable.
+
 
 
 ###[Javascript](#JS) 		
